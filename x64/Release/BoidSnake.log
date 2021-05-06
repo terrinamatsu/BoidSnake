@@ -1,0 +1,25 @@
+﻿  Arena.cpp
+  Boid.cpp
+  GameObject.cpp
+  Player.cpp
+  RenderGlobals.cpp
+  main.cpp
+C:\Users\PolarPandar\NGL_FINAL\BoidSnake\src\GameObject.cpp(11,31): warning C4100: '_dt': unreferenced formal parameter
+C:\Users\PolarPandar\NGL_FINAL\BoidSnake\src\GameObject.cpp(19,40): warning C4100: '_m': unreferenced formal parameter
+C:\Users\PolarPandar\NGL_FINAL\BoidSnake\src\Arena.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\PolarPandar\NGL_FINAL\BoidSnake\src\Player.cpp(30,27): warning C4100: '_dt': unreferenced formal parameter
+C:\Users\PolarPandar\NGL_FINAL\BoidSnake\src\Player.cpp(44,62): warning C4244: 'argument': conversion from 'double' to 'ngl::Real', possible loss of data
+C:\Users\PolarPandar\NGL_FINAL\BoidSnake\src\Player.cpp(44,33): warning C4244: 'argument': conversion from 'double' to 'ngl::Real', possible loss of data
+C:\Users\PolarPandar\NGL_FINAL\BoidSnake\src\Arena.cpp(73,66): warning C4244: 'argument': conversion from 'unsigned int' to 'ngl::Real', possible loss of data
+C:\Users\PolarPandar\NGL_FINAL\BoidSnake\src\Arena.cpp(73,50): warning C4244: 'argument': conversion from 'unsigned int' to 'ngl::Real', possible loss of data
+C:\Users\PolarPandar\NGL_FINAL\BoidSnake\src\Arena.cpp(85,72): warning C4244: 'argument': conversion from 'unsigned int' to 'const ngl::Real', possible loss of data
+C:\Users\PolarPandar\NGL_FINAL\BoidSnake\src\Arena.cpp(85,63): warning C4244: 'argument': conversion from 'unsigned int' to 'const ngl::Real', possible loss of data
+C:\Users\PolarPandar\NGL_FINAL\BoidSnake\src\Arena.cpp(98,34): warning C4100: '_y': unreferenced formal parameter
+C:\Users\PolarPandar\NGL_FINAL\BoidSnake\src\Arena.cpp(98,26): warning C4100: '_x': unreferenced formal parameter
+C:\Users\PolarPandar\NGL_FINAL\BoidSnake\src\Arena.cpp(137,38): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\PolarPandar\NGL_FINAL\BoidSnake\src\Arena.cpp(188,49): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\PolarPandar\NGL_FINAL\BoidSnake\src\Arena.cpp(188,34): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\PolarPandar\NGL_FINAL\BoidSnake\src\Arena.cpp(193,49): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\PolarPandar\NGL_FINAL\BoidSnake\src\Arena.cpp(193,34): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\PolarPandar\NGL_FINAL\BoidSnake\src\main.cpp(104,5): warning C4060: switch statement contains no 'case' or 'default' labels
+  BoidSnake.vcxproj -> C:\Users\PolarPandar\NGL_FINAL\BoidSnake\.\BoidSnake.exe
